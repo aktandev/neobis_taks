@@ -1,0 +1,11 @@
+{
+    "name": "Alex",
+    "full name": "Alex Casperantos",
+    "age": 32,
+    "Born Date": "12:03:1990",
+    "languages": [
+        "python",
+        "javascript",
+        "go"
+    ]
+}
